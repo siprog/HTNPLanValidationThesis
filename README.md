@@ -1,5 +1,5 @@
 # HTNPLanValidationThesis
-In this readme link is provided to the code for a plan verification algorithm inspired by parsing. This algorithm was implemented by Simona Ondrčková and presented in her master thesis: https://dspace.cuni.cz/handle/20.500.11956/116612?locale-attribute=en
+In this readme link is provided the code for a plan verification algorithm inspired by parsing. This algorithm was implemented by Simona Ondrčková and presented in her master thesis: https://dspace.cuni.cz/handle/20.500.11956/116612?locale-attribute=en
 
 The hierarchical plan verification code for parsing based verifier can be found here in the Plan Validation folder: https://dspace.cuni.cz/bitstream/handle/20.500.11956/116612/120352460.zip?sequence=4&isAllowed=y The link also contains a Plan Recognition folder which contains the code for a plan recognition algorithm. More information on how it works can be found in the thesis. 
 
