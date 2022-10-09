@@ -10,4 +10,4 @@ Roman Barták et al. On the Verification of Totally-Ordered HTN Plans published 
 
 Simona Ondrčková et al. On Heuristics for Parsing-based Verification of Hierarchical Plans with a Goal Task published in FLAIRS 2022 https://journals.flvc.org/FLAIRS/article/view/130606
 
-New github file with the final version of the code  (which will encompass all the newer versions) will be created in the future. 
+We plan to create  new github file with the final version of the code  (which will encompass all the newer versions). 
